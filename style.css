@@ -1,0 +1,35 @@
+.box1 {
+  width: 90%;
+  background-color: #eeeeee;
+}
+
+html {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.el1 {
+  background-color: #7ee5da;
+  width: 35%;
+}
+
+.el2 {
+  background-color: #70ccc2;
+  width: 15%;
+  font-size: small;
+}
+
+.el3 {
+  background-color: #62b3aa;
+  width: 40%;
+  font-size: small;
+}
+
+table {
+  min-width: 90%;
+  margin: auto;
+}
+
+footer {
+  text-align: center;
+}
